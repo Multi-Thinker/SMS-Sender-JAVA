@@ -1,10 +1,9 @@
-========================
+
 #Instructions
-========================
 
 ##How to Run:
-
 After Configuring and placing the required libraries in folders as instruction there are two ways to use this application
+
 ###1. GUI:
 Either run by command `java -jar "SMS_Sender.jar"` or double click on jar if your system is configured to run jar files it will run "GUI" version of application, You need to choose your port where you have attached SMS device/USB/GSM Modem, the right sidebar is where you will see history of your sent or sms in your database (if configured); double clicking the sidebar item will popup the sent sms body;
 ![ScreenShot](http://codeot.com/wp-content/uploads/2018/04/Screenshot-from-2018-04-04-10-44-33.png)
